@@ -1,0 +1,5 @@
+setup.py
+pyTimer.egg-info/PKG-INFO
+pyTimer.egg-info/SOURCES.txt
+pyTimer.egg-info/dependency_links.txt
+pyTimer.egg-info/top_level.txt
